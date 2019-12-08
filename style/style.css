@@ -51,6 +51,7 @@
 .navbar-mobile ul h2 {
   padding: 30px;
   font-size: 3rem;
+  font-weight: bold;
 }
 
 .navbar-mobile ul p {
